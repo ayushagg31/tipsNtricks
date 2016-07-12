@@ -74,9 +74,8 @@
 39. [**10minutemail.com**](http://10minutemail.com/10MinuteMail/index.html)- To avoid spam create a temporary email.
 
 ## Browser Tricks
-1. Just put**listento** before the **youtube** part of a video's URL link for downloading youtube video as an audio.
-2. **data:text/html, <html contenteditable>** - open notepad while on chrome ? Just enter this in the URL.
-3. Add **?share=1** at the end of the Quora URLs to skip the login window.
+1. Just put **listento** before the **youtube** part of a video's URL link for downloading youtube video as an audio.
+2. Add **?share=1** at the end of the Quora URLs to skip the login window.
 
 ## Single Page Web Application
 1. [*HasteBin*](http://hastebin.com/about.md) (Open Source Paste Bin )
