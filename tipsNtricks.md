@@ -74,10 +74,7 @@
 39. [**10minutemail.com**](http://10minutemail.com/10MinuteMail/index.html)- To avoid spam create a temporary email.
 40. **listentoyoutube** - download youtube video as an audio 
 41. **data:text/html, <html contenteditable>** - open notepad while on chrome ? Just enter this in the URL.
-42. **Adding ?share=1** at the end of the Quora URLs to skip the login window
-	
-
-There are around 800 links (ca. 500 in posts, 250 in comments) on Stack Overflow pointing to Quora (using th
+42. **Adding ?share=1** at the end of the Quora URLs to skip the login window.
 
 ## Single Page Web Application
 1. [*HasteBin*](http://hastebin.com/about.md) (Open Source Paste Bin )
