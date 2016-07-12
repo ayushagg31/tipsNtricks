@@ -14,7 +14,8 @@
 13. [**Easy Screenshot**](https://addons.mozilla.org/en-US/firefox/addon/easyscreenshot/) - Capture a screenshot of the whole webpage, and save in your desktop in default.
 14. **`Ctrl + L`** or **`Alt + D`** - Select link (URLs).
 15. [**Dictionary Tooltip**](https://addons.mozilla.org/en-US/firefox/addon/dictionary-tooltip/) - Press ctrl+shift+K (or) double-click to see its meaning. 
-16.[**ColorfulTabs**](https://addons.mozilla.org/en-US/firefox/addon/colorfultabs/) - Makes tabs easier to distinguish from each other and it helps to make the active tab stand out against the background tabs. 
+16. [**Colorful Tabs**](https://addons.mozilla.org/en-US/firefox/addon/colorfultabs/) - Makes tabs easier to distinguish from each other and it helps to make the active tab stand out against the background tabs. 
+
 
 ## Chrome
 1. [**Folder upload option**](http://lifehacker.com/5952508/upload-folders-to-google-drive-faster-by-drag-and-dropping-them-into-chrome) - Upload complete forlders by dragging and droping into chrome, not available in firefox
@@ -73,7 +74,7 @@
 39. [**10minutemail.com**](http://10minutemail.com/10MinuteMail/index.html)- To avoid spam create a temporary email.
 40. **listentoyoutube** - download youtube video as an audio 
 41. **data:text/html, <html contenteditable>** - open notepad while on chrome ? Just enter this in the URL.
-42. **Adding ?share=1**at the end of the Quora URLs to skip the login window
+42. **Adding ?share=1** at the end of the Quora URLs to skip the login window
 	
 
 There are around 800 links (ca. 500 in posts, 250 in comments) on Stack Overflow pointing to Quora (using th
@@ -196,7 +197,7 @@ There are around 800 links (ca. 500 in posts, 250 in comments) on Stack Overflow
 29. **SplitWise** - Split bills and expenses with friends
 30. **ES File Explorer** - Share file b/w android and laptop ,arrange file, compress files and lot more.
 31. **WiFi Mouse | keyboard** - Transform phone into a wireless mouse, keyboard and trackpad using WiFi Mouse.
-32 .**Super Backup** - Get your installed apps apk. backup apps & contacts & SMS & Call logs & Bookmarks & Calendars to the SD card/Google Drive/Gmail.
+32. **Super Backup** - Get your installed apps apk. backup apps & contacts & SMS & Call logs & Bookmarks & Calendars to the SD card/Google Drive/Gmail.
 
 ## Linux commands and shortcuts
 1. **ps -el | grep &lt;application name&gt;** - to get the process id of the process.
