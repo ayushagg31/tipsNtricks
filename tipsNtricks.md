@@ -205,7 +205,7 @@ There are around 800 links (ca. 500 in posts, 250 in comments) on Stack Overflow
 3. **Killall &lt;process\_name&gt;** - to kill all the running process
 4. **Nohup &lt;command&gt; &** - to run the command in background.
 5. **fg, bg**
-6. **Top** - to see which process is taking how much memory.
+6. **Top** - to see which process is taking how much  memory.
 7. **Ctrl + R** - to search recursively
 8. **Ctrl + U** - delete line
 9. **Use -E to add PPA**
