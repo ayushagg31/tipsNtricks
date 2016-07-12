@@ -11,6 +11,10 @@
 10. [**JsonView**](https://addons.mozilla.org/en-us/firefox/addon/jsonview/) - Parses json string into objects and arrays.
 11. [**FireQuery**](https://addons.mozilla.org/en-us/firefox/addon/firequery/) - Firebug plugin for jQuery development
 12. [**Hide Caption Titlebar Plus**](https://addons.mozilla.org/en-US/firefox/addon/hide-caption-titlebar-plus-sma/) - Hide titlebar in firefox. Maximize your screen space by adjusting Firefox window TitleBar, borders, Tabs, Toolbars, etc!
+13. [**Easy Screenshot**](https://addons.mozilla.org/en-US/firefox/addon/easyscreenshot/) - Capture a screenshot of the whole webpage, and save in your desktop in default.
+14. **`Ctrl + L`** or **`Alt + D`** - Select link (URLs).
+15. [**Dictionary Tooltip**](https://addons.mozilla.org/en-US/firefox/addon/dictionary-tooltip/) - Press ctrl+shift+K (or) double-click to see its meaning. 
+16.[**ColorfulTabs**](https://addons.mozilla.org/en-US/firefox/addon/colorfultabs/) - Makes tabs easier to distinguish from each other and it helps to make the active tab stand out against the background tabs. 
 
 ## Chrome
 1. [**Folder upload option**](http://lifehacker.com/5952508/upload-folders-to-google-drive-faster-by-drag-and-dropping-them-into-chrome) - Upload complete forlders by dragging and droping into chrome, not available in firefox
@@ -21,6 +25,7 @@
 6. [**Be Limitless**](https://chrome.google.com/webstore/detail/be-limitless/jdpnljppdhjpafeaokemhcggofohekbp?hl=en) - Beautiful dashboard to easily identify where your time is spent and gives productivity.
 7. [**Momentum**](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en) - Another beautiful dashboard featuring todo, weather, and inspiration
 8. [**Hola Free VPN**](https://chrome.google.com/webstore/detail/unlimited-free-vpn-hola/gkojfkhlekighikafcpjkiklfbnlmeio?hl=en) - Access blocked website, youtube videos.
+9. [**Lightshot**](https://chrome.google.com/webstore/detail/lightshot-screenshot-tool/mbniclmhobmnbdlbpiphghaielnnpgdp?hl=en) - Simple and convenient screenshot tool. Select an area, edit your screenshot and upload it to the server.
 
 ### Common to Both Browsers
 1. **Incognito mode** - Private browsing `Ctrl + Shift + N`(Chrome), `Ctrl + Shift + P`(Firefox)
@@ -66,6 +71,12 @@
 37. [**kumpulbagi.id**](http://kumpulbagi.id/)- Download music,movies,games.
 38. [**8tracks.com**](http://8tracks.com/)- Make and discover playlists.
 39. [**10minutemail.com**](http://10minutemail.com/10MinuteMail/index.html)- To avoid spam create a temporary email.
+40. **listentoyoutube** - download youtube video as an audio 
+41. **data:text/html, <html contenteditable>** - open notepad while on chrome ? Just enter this in the URL.
+42. **Adding ?share=1**at the end of the Quora URLs to skip the login window
+	
+
+There are around 800 links (ca. 500 in posts, 250 in comments) on Stack Overflow pointing to Quora (using th
 
 ## Single Page Web Application
 1. [*HasteBin*](http://hastebin.com/about.md) (Open Source Paste Bin )
@@ -121,6 +132,7 @@
 39. Screen - used on a remote server to create multiple terminals
 40. **Easy Stroke Gesture recorder** -  control your desktop using mouse gestures
 41. [__fzf__](https://github.com/junegunn/fzf) - a genral purpose command line fuzzy finder, install it nd press `Ctrl + R` or `Ctrl + T` or `ALT + C` in terminal to see the magic.
+42. **alien** -  program that converts between Red Hat rpm, Debian deb, Stampede slp, Slackware tgz, and Solaris pkg file formats. For installing use **sudo apt-get install alien** 
 
 ## Windows softwares and unilities
 1. **Putty** - ssh tunnelling in windows.
@@ -182,6 +194,9 @@
 27. **LIfe360** - Locate your family and friends using GPS
 28. **AdAway** - Block most of Ads on your phone
 29. **SplitWise** - Split bills and expenses with friends
+30. **ES File Explorer** - Share file b/w android and laptop ,arrange file, compress files and lot more.
+31. **WiFi Mouse | keyboard** - Transform phone into a wireless mouse, keyboard and trackpad using WiFi Mouse.
+32 .**Super Backup** - Get your installed apps apk. backup apps & contacts & SMS & Call logs & Bookmarks & Calendars to the SD card/Google Drive/Gmail.
 
 ## Linux commands and shortcuts
 1. **ps -el | grep &lt;application name&gt;** - to get the process id of the process.
