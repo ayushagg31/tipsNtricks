@@ -72,9 +72,11 @@
 37. [**kumpulbagi.id**](http://kumpulbagi.id/)- Download music,movies,games.
 38. [**8tracks.com**](http://8tracks.com/)- Make and discover playlists.
 39. [**10minutemail.com**](http://10minutemail.com/10MinuteMail/index.html)- To avoid spam create a temporary email.
-40. **listentoyoutube** - download youtube video as an audio 
-41. **data:text/html, <html contenteditable>** - open notepad while on chrome ? Just enter this in the URL.
-42. **Adding ?share=1** at the end of the Quora URLs to skip the login window.
+
+## Browser Tricks
+1. Just put**listento** before the **youtube** part of a video's URL link for downloading youtube video as an audio.
+2. **data:text/html, <html contenteditable>** - open notepad while on chrome ? Just enter this in the URL.
+3. Add **?share=1** at the end of the Quora URLs to skip the login window.
 
 ## Single Page Web Application
 1. [*HasteBin*](http://hastebin.com/about.md) (Open Source Paste Bin )
@@ -192,8 +194,7 @@
 27. **LIfe360** - Locate your family and friends using GPS
 28. **AdAway** - Block most of Ads on your phone
 29. **SplitWise** - Split bills and expenses with friends
-30. **ES File Explorer** - Share file b/w android and laptop ,arrange file, compress files and lot more.
-31. **WiFi Mouse | keyboard** - Transform phone into a wireless mouse, keyboard and trackpad using WiFi Mouse.
+30. **WiFi Mouse | keyboard** - Transform phone into a wireless mouse, keyboard and trackpad using WiFi Mouse.
 32. **Super Backup** - Get your installed apps apk. backup apps & contacts & SMS & Call logs & Bookmarks & Calendars to the SD card/Google Drive/Gmail.
 
 ## Linux commands and shortcuts
@@ -202,7 +203,7 @@
 3. **Killall &lt;process\_name&gt;** - to kill all the running process
 4. **Nohup &lt;command&gt; &** - to run the command in background.
 5. **fg, bg**
-6. **Top** - to see which process is taking how much  memory.
+6. **Top** - to see which process is taking how much memory.
 7. **Ctrl + R** - to search recursively
 8. **Ctrl + U** - delete line
 9. **Use -E to add PPA**
